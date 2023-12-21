@@ -43,7 +43,7 @@ export const Header = () => {
           >
             <img src={Logo} className="h-8" alt="Cinema Logo" />
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              Cinema Mate
+              Cinemate
             </span>
           </Link>
 
